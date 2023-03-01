@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "390108228457",
+    "project_id": "chatapps-a3dc7",
+    "storage_bucket": "chatapps-a3dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390108228457:android:b9b0487f09f9b316c66bf8",
+        "android_client_info": {
+          "package_name": "com.fevint.chatapp_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390108228457-githdiabpttcp4emu86kbocf1kh65kiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNalXQZaLzgv-iNtJa0w0rGIvXh6kAVpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390108228457-githdiabpttcp4emu86kbocf1kh65kiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390108228457-8nt2u82oas9tmbrv09p737ddh7fnvquj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcmApps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
